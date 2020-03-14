@@ -1,0 +1,19 @@
+relative_error = 0.000001
+absolute_error = 0.000005
+threads = 8
+# X values
+x1 = -10
+x2 = 10
+
+# Y values
+y1  = -10
+y2 = 10
+
+m = 5
+
+a1 = 1 2 1 1 5
+a2 = 4 5 1 2 4
+c = 2 1 4 7 2
+
+initial_steps = 200
+max_steps = 100000000
